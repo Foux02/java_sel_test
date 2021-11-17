@@ -1,14 +1,36 @@
-.gradle
-/build/
 
-# Ignore Gradle GUI config
-gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-# Cache of project
-.gradletasknamecache
-
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+test2/.idea/workspace.xml
+test2/.idea/misc.xml
+first/.gradle/6.5.1/executionHistory/executionHistory.bin
+first/.gradle/6.5.1/executionHistory/executionHistory.lock
+first/.gradle/6.5.1/fileChanges/last-build.bin
+first/.gradle/6.5.1/fileContent/fileContent.lock
+first/.gradle/6.5.1/fileHashes/fileHashes.bin
+first/.gradle/6.5.1/fileHashes/fileHashes.lock
+first/.gradle/6.5.1/gc.properties
+first/.gradle/6.5.1/javaCompile/javaCompile.lock
+first/.gradle/6.5.1/javaCompile/taskHistory.bin
+first/.gradle/6.8.3/executionHistory/executionHistory.bin
+first/.gradle/6.8.3/executionHistory/executionHistory.lock
+first/.gradle/6.8.3/fileChanges/last-build.bin
+first/.gradle/6.8.3/fileHashes/fileHashes.bin
+first/.gradle/6.8.3/fileHashes/fileHashes.lock
+first/.gradle/6.8.3/fileHashes/resourceHashesCache.bin
+first/.gradle/6.8.3/gc.properties
+first/.gradle/6.8.3/javaCompile/javaCompile.lock
+first/.gradle/6.8.3/javaCompile/taskHistory.bin
+first/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+first/.gradle/buildOutputCleanup/cache.properties
+first/.gradle/buildOutputCleanup/outputFiles.bin
+first/.gradle/checksums/checksums.lock
+first/.gradle/configuration-cache/gc.properties
+first/.gradle/vcs-1/gc.properties
+first/build.gradle
+first/build.gradle
+first/build/distributions/first.tar
+first/gradle/wrapper/gradle-wrapper.jar
+first/gradle/wrapper/gradle-wrapper.properties
+first/gradlew
+first/gradlew.bat
+LICENSE
+LICENSE
