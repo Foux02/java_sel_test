@@ -3,9 +3,9 @@ plugins {
 }
 
 repositories {
-    jcenter()
+    jcenter() 
 }
 
 application {
-    mainClass = 'FirstTest'
+    mainClass = 'FirstTest' 
 }
